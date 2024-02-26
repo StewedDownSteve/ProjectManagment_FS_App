@@ -3,7 +3,12 @@ Welcome to my scalable MERN stack-based project management CRUD app! This applic
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
 
-![alt tag](http://placecorgi.com/1200/650)
+**App Dashboard**
+![app dash](https://github.com/StewedDownSteve/ProjectManagment_FS_App/blob/main/mgmt_app_dash_img.png)
+**View Project**
+![view project](https://github.com/StewedDownSteve/ProjectManagment_FS_App/blob/main/mgmt_app_project_img.png)
+**Add Project**
+![add project](https://github.com/StewedDownSteve/ProjectManagment_FS_App/blob/main/mgmt_app_add_img.png)
 
 ## How It's Made:
 
