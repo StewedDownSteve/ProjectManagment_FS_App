@@ -4,10 +4,15 @@ Welcome to my scalable MERN stack-based project management CRUD app! This applic
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
 
 **App Dashboard**
+
 ![app dash](https://github.com/StewedDownSteve/ProjectManagment_FS_App/blob/main/mgmt_app_dash_img.png)
+
 **View Project**
+
 ![view project](https://github.com/StewedDownSteve/ProjectManagment_FS_App/blob/main/mgmt_app_project_img.png)
+
 **Add Project**
+
 ![add project](https://github.com/StewedDownSteve/ProjectManagment_FS_App/blob/main/mgmt_app_add_img.png)
 
 ## How It's Made:
@@ -26,10 +31,10 @@ I'll soon be adding Google Auth, and sorting features for customers and projects
 Building this project has been an exciting learning journey. Emphasizing the importance of good app structure, I discovered the power of GraphQL and Apollo for enhanced data handling. The MVC architecture proved pivotal in maintaining clarity and scalability. These insights will undoubtedly shape my future projects as I continue to explore and expand my skills.
 
 ## Examples:
-Take a look at these couple examples that I have in my own portfolio:
+Some other projects from my portfolio:
 
-**Palettable:** https://github.com/alecortega/palettable
+**Ticket Tracker:** https://github.com/StewedDownSteve/TicketTrackerFullStack
 
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
+**StoryBooks Copy:** https://github.com/StewedDownSteve/storybookscopy
 
-**Patch Panel:** https://github.com/alecortega/patch-panel
+**Weather App(Geo Location):** https://github.com/StewedDownSteve/Weather_App_Updated
