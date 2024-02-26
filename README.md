@@ -1,5 +1,5 @@
-# Project Managment App!
-Welcome to my scalable MERN stack-based project management CRUD app! This application empowers users to effortlessly manage projects, their statuses, and connected customers with ease.
+# Project Management App!
+Welcome to my scalable MERN stack-based project management CRUD app! This application empowers users to effortlessly manage projects, and their statuses, and connect customers with ease.
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
 
@@ -9,7 +9,7 @@ Welcome to my scalable MERN stack-based project management CRUD app! This applic
 
 **Tech used:** GraphQl, Apollo, MongoDB, Express, React, Node, Javascript, CSS
 
-Developed using the MERN stack—MongoDB, Express, React, and Node.js—this project showcases my skills in crafting scalable web applications. Utilizing GraphQL for efficient data queries and management, Apollo for seamless client-server interaction, and CSS for styling, this app ensures a smooth and intuitive user experience.
+Developed using the MERN stack this project showcases my skills in crafting scalable web applications. Utilizing GraphQL for efficient data queries and management, Apollo for seamless client-server interaction, and added CSS for styling, this app ensures a smooth and intuitive user experience.
 
 ## Optimizations
 In pursuit of scalability, I've employed well-designed schemas and an MVC architecture. This not only enhances the app's performance but also lays a foundation for easy integration of additional features in the future. The separation of queries and mutations ensures organized code, making maintenance and expansion a breeze.
