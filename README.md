@@ -1,7 +1,7 @@
 # Project Management App!
 Welcome to my scalable MERN stack-based project management CRUD app! This application empowers users to effortlessly manage projects, and their statuses, and connect customers with ease.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** coming soon!
 
 **App Dashboard**
 
