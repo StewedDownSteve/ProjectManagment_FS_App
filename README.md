@@ -1,4 +1,4 @@
-# Project Management App!
+# Power To Project!
 Welcome to my scalable MERN stack-based project management CRUD app! This application empowers users to effortlessly manage projects, and their statuses, and connect customers with ease.
 
 **Link to project:** coming soon!
